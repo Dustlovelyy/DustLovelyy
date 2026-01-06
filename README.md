@@ -1,6 +1,6 @@
 # Hi 👋, I'm DustLovely
 
-### straggling in point cloud...
+### Struggling in the point cloud world....
 
 - 🔭 I'm currently working on **Mask  Autoencoder & Memory Network**
 
