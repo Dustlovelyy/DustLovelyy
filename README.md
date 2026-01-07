@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on **Mask  Autoencoder & Memory Network**
 
-- 🌱 Long-term learning **how to become the hero I looked up to as a child.**
+- 🌱 Long-term learning **Deep learning and something with AI, likely in Point Cloud Completion**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
